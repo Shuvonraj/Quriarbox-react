@@ -17,6 +17,9 @@ export default {
       primary:'#F95C19',
       white:'#ffff'
     },
+    backgroundImage:{
+      video:"url('./Images/Video.png')",
+    }
   },
   plugins: [],
 }
